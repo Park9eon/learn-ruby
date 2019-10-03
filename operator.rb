@@ -24,3 +24,6 @@ end
 if s1.equal?(s3)
 	puts 's1.equal?(s3)'
 end
+
+puts 'False' if false
+puts 'True' if true
